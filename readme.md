@@ -18,7 +18,7 @@ I embarked on a transformative journey a few years ago. It has been a rollercoas
 
 ## A Memorable Trip
 
-![My Photo](https://example.com/abdul_qudoos_photo.jpg)
+![My Photo](https://web.facebook.com/photo.php?fbid=441998900726862&set=pb.100047502679266.-2207520000.&type=3)
 
 Last summer, I had the opportunity to visit [Santorini](https://en.wikipedia.org/wiki/Santorini), a stunning Greek island in the Aegean Sea. The breathtaking views, picturesque sunsets, and vibrant culture made it an unforgettable experience.
 
