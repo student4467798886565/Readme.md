@@ -18,7 +18,7 @@ I embarked on a transformative journey a few years ago. It has been a rollercoas
 
 ## A Memorable Trip
 
-![My Photo](https://web.facebook.com/photo.php?fbid=441998900726862&set=pb.100047502679266.-2207520000.&type=3)
+![Random Photo](https://picsum.photos/400/300)
 
 Last summer, I had the opportunity to visit [Santorini](https://en.wikipedia.org/wiki/Santorini), a stunning Greek island in the Aegean Sea. The breathtaking views, picturesque sunsets, and vibrant culture made it an unforgettable experience.
 
@@ -28,4 +28,4 @@ Throughout my journey, I've realized the importance of **perseverance**. Life's 
 
 > *"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill*
 
-Thank you for joining me on this blogging adventure! I hope you enjoyed getting to know me better. Stay tuned for more exciting content and remember to embrace life's journey with an open heart and a curious mind.
+Thank you for joining me on this blogging adventure! I hope you enjoyed getting to know me better. Stay tuned for more exciting content, and remember to embrace life's journey with an open heart and a curious mind.
